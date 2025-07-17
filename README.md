@@ -1,4 +1,3 @@
-
 <h1 align="center">سلام! 👋 من یک توسعه‌دهنده‌ی Front-end هستم</h1>
 
 <p align="center">
@@ -10,10 +9,10 @@
 
 ## 👨‍💻 درباره‌ی من:
 
-- 💡 در حال یادگیری و پیشرفت روزانه در دنیای وب
-- 🔧 تخصص در طراحی سایت با HTML, CSS و JavaScript
-- 🛠️ تجربه کار با WordPress برای ساخت سایت‌های حرفه‌ای
-- 🎯 هدفم ساخت پروژه‌های واقعی و کمک به دیگران با مهارت‌هام
+- 💡 در حال یادگیری و پیشرفت روزانه در دنیای وب  
+- 🔧 تخصص در طراحی سایت با HTML, CSS و JavaScript  
+- 🛠️ تجربه کار با WordPress برای ساخت سایت‌های حرفه‌ای  
+- 🎯 هدفم ساخت پروژه‌های واقعی و کمک به دیگران با مهارت‌هام  
 
 ---
 
@@ -46,17 +45,13 @@
 </ul>
 </details>
 
-<!-- Add more projects similarly if available -->
-
 ---
 
 ## 📈 آمار گیت‌هاب من:
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ali-dev&show_icons=true&theme=radical" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-dev&theme=radical" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-dev&layout=compact&theme=radical" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sepehr175&show_icons=true&theme=radical" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepehr175&layout=compact&theme=radical" />
 </p>
 
 ---
@@ -68,5 +63,5 @@
 </p>
 
 <p align="center">
-  💻 ساخته شده توسط من ❤️
+  💻 ساخته شده با ❤️ توسط من
 </p>
