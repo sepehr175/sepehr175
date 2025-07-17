@@ -1,16 +1,71 @@
-## Hi there 👋
 
-<!--
-**sepehr175/sepehr175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">سلام! 👋 من یک توسعه‌دهنده‌ی Front-end هستم</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  🌐 HTML | 🎨 CSS | ⚙️ JavaScript | 🧩 WordPress<br>
+  عاشق ساختن وب‌سایت‌های زیبا، تمیز و حرفه‌ای ✨
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 درباره‌ی من:
+
+- 💡 در حال یادگیری و پیشرفت روزانه در دنیای وب
+- 🔧 تخصص در طراحی سایت با HTML, CSS و JavaScript
+- 🛠️ تجربه کار با WordPress برای ساخت سایت‌های حرفه‌ای
+- 🎯 هدفم ساخت پروژه‌های واقعی و کمک به دیگران با مهارت‌هام
+
+---
+
+## 🧰 Tech Stack من:
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,tailwind,bootstrap,react,vscode,github,git" />
+</p>
+
+---
+
+## 🔧 ابزارهایی که استفاده می‌کنم:
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Design-Figma-red?logo=figma&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Control-Git-orange?logo=git&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hosting-GitHubPages-darkgreen?logo=githubpages&style=for-the-badge" />
+</p>
+
+---
+
+## 📂 پروژه‌های من:
+
+<details>
+<summary>🎬 سایت تماشای فیلم (HTML, CSS)</summary>
+<ul>
+  <li><a href="#">🔗 لینک پروژه</a></li>
+  <li><a href="#">📦 سورس کد در گیت‌هاب</a></li>
+</ul>
+</details>
+
+<!-- Add more projects similarly if available -->
+
+---
+
+## 📈 آمار گیت‌هاب من:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" /><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" /><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📫 راه‌های ارتباط با من:
+
+<p>
+  💬 در حال حاضر ترجیح می‌دهم فقط از طریق GitHub فعالیت کنم.
+</p>
+
+<p align="center">
+  💻 ساخته شده با ❤️ توسط من
+</p>
