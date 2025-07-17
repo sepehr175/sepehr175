@@ -53,9 +53,10 @@
 ## 📈 آمار گیت‌هاب من:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical" /><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=radical" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api?username=ali-dev&show_icons=true&theme=radical" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-dev&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali-dev&layout=compact&theme=radical" />
+
 </p>
 
 ---
