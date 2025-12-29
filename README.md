@@ -1,22 +1,22 @@
-<h1 align="center">سلام! 👋 من یک توسعه‌دهنده‌ی Front-end هستم</h1>
+<h1 align="center">Hi! 👋 I'm a Front-end Developer</h1>
 
 <p align="center">
   🌐 HTML | 🎨 CSS | ⚙️ JavaScript | 🧩 WordPress<br>
-  عاشق ساختن وب‌سایت‌های زیبا، تمیز و حرفه‌ای ✨
+  Passionate about building beautiful, clean, and professional websites ✨
 </p>
 
 ---
 
-## 👨‍💻 درباره‌ی من:
+## 👨‍💻 About Me:
 
-- 💡 در حال یادگیری و پیشرفت روزانه در دنیای وب  
-- 🔧 تخصص در طراحی سایت با HTML, CSS و JavaScript  
-- 🛠️ تجربه کار با WordPress برای ساخت سایت‌های حرفه‌ای  
-- 🎯 هدفم ساخت پروژه‌های واقعی و کمک به دیگران با مهارت‌هام  
+- 💡 Learning and improving daily in the web world
+- 🔧 Specialized in web design using HTML, CSS, and JavaScript
+- 🛠️ Experienced in working with WordPress to build professional sites
+- 🎯 My goal is to build real-world projects and help others with my skills
 
 ---
 
-## 🧰 Tech Stack من:
+## 🧰 My Tech Stack:
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,tailwind,bootstrap,react,vscode,github,git" />
@@ -24,7 +24,7 @@
 
 ---
 
-## 🔧 ابزارهایی که استفاده می‌کنم:
+## 🔧 Tools I Use:
 
 <p align="center">
   <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode&style=for-the-badge" />
@@ -35,19 +35,19 @@
 
 ---
 
-## 📂 پروژه‌های من:
+## 📂 My Projects:
 
 <details>
-<summary>🎬 سایت تماشای فیلم (HTML, CSS)</summary>
+<summary>🎬 Movie Streaming Site (HTML, CSS)</summary>
 <ul>
-  <li><a href="#">🔗 لینک پروژه</a></li>
-  <li><a href="#">📦 سورس کد در گیت‌هاب</a></li>
+  <li><a href="#">🔗 Live Demo</a></li>
+  <li><a href="#">📦 Source Code</a></li>
 </ul>
 </details>
 
 ---
 
-## 📈 آمار گیت‌هاب من:
+## 📈 My GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sepehr175&show_icons=true&theme=radical" /><br>
@@ -56,12 +56,12 @@
 
 ---
 
-## 📫 راه‌های ارتباط با من:
+## 📫 Connect With Me:
 
 <p>
-  💬 در حال حاضر ترجیح می‌دهم فقط از طریق GitHub فعالیت کنم.
+  💬 Currently, I prefer to stay active only through GitHub.
 </p>
 
 <p align="center">
-  💻 ساخته شده توسط من ❤️
+  💻 Made by me ❤️
 </p>
