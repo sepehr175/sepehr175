@@ -1,67 +1,174 @@
-<h1 align="center">Hi! 👋 I'm a Front-end Developer</h1>
+<!-- ==================== HEADER ==================== -->
+
+<h1 align="center">Hi 👋 I'm Sepehr</h1>
+
+<h3 align="center">
+Full Stack Developer • JavaScript & TypeScript Enthusiast • AI Learner
+</h3>
 
 <p align="center">
-  🌐 HTML | 🎨 CSS | ⚙️ JavaScript | 🧩 WordPress<br>
-  Passionate about building beautiful, clean, and professional websites ✨
+Building scalable web applications, desktop software, and modern digital experiences.
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3BA8FF&center=true&vCenter=true&random=false&width=700&lines=Full+Stack+Developer;React+%7C+Next.js+%7C+Node.js;TypeScript+%7C+Python;AI+%26+Machine+Learning+Learner;Always+Building+Something+New+🚀" />
 </p>
 
 ---
 
-## 👨‍💻 About Me:
+# 🚀 About Me
 
-- 💡 Learning and improving daily in the web world
-- 🔧 Specialized in web design using HTML, CSS, and JavaScript
-- 🛠️ Experienced in working with WordPress to build professional sites
-- 🎯 My goal is to build real-world projects and help others with my skills
+I'm a **Full Stack Developer** passionate about building scalable, high-performance applications with modern technologies.
+
+I enjoy turning ideas into real-world products through clean architecture, maintainable code, and intuitive user experiences.
+
+Currently, I'm expanding my knowledge in **Artificial Intelligence**, **Machine Learning**, and advanced backend engineering while continuously exploring new technologies and best practices.
 
 ---
 
-## 🧰 My Tech Stack:
+# 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,tailwind,bootstrap,react,vscode,github,git" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,tailwind,bootstrap,python,electron,mongodb,postgres,wordpress,git,github,vscode,postman,figma" />
+
 </p>
 
 ---
 
-## 🔧 Tools I Use:
+## 🎨 Frontend
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- Bootstrap
+
+---
+
+## ⚙️ Backend
+
+- Node.js
+- Express.js
+- REST API Development
+
+---
+
+## 🗄 Databases
+
+- MongoDB
+- PostgreSQL
+
+---
+
+## 🤖 Artificial Intelligence
+
+- Python
+- Artificial Intelligence *(Learning)*
+- Machine Learning *(Learning)*
+
+---
+
+## 🖥 Desktop Development
+
+- Electron
+
+---
+
+## 🛠 Tools
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- Figma
+
+---
+
+# 🌱 Currently Learning
+
+- Artificial Intelligence
+- Machine Learning
+- Advanced Backend Development
+- Software Architecture
+- Performance Optimization
+- Cloud Technologies
+
+---
+
+# 🎯 Current Goals
+
+✔ Build production-ready Full Stack applications
+
+✔ Learn AI integration in web applications
+
+✔ Contribute to Open Source
+
+✔ Master scalable backend architecture
+
+✔ Keep improving every single day
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Design-Figma-red?logo=figma&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Control-Git-orange?logo=git&style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Hosting-GitHubPages-darkgreen?logo=githubpages&style=for-the-badge" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sepehr175&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepehr175&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sepehr175&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sepehr175&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📂 My Projects:
-
-<details>
-<summary>🎬 Movie Streaming Site (HTML, CSS)</summary>
-<ul>
-  <li><a href="#">🔗 Live Demo</a></li>
-  <li><a href="#">📦 Source Code</a></li>
-</ul>
-</details>
-
----
-
-## 📈 My GitHub Stats:
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sepehr175&show_icons=true&theme=radical" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sepehr175&layout=compact&theme=radical" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=sepehr175&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
+
 </p>
 
 ---
 
-## 📫 Connect With Me:
+# 📂 Featured Projects
 
-<p>
-  💬 Currently, I prefer to stay active only through GitHub.
-</p>
+### 🎬 Movie Streaming Website
+
+A responsive movie streaming website built with HTML & CSS.
+
+🔗 Live Demo *(Coming Soon)*
+
+📦 Source Code *(Coming Soon)*
+
+---
+
+# 🤝 Let's Collaborate
+
+I'm always interested in collaborating on innovative projects, open-source contributions, and modern web applications.
+
+---
 
 <p align="center">
-  💻 Made by me ❤️
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code with purpose. Learn without limits. Build for impact."*
+
 </p>
